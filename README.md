@@ -125,6 +125,13 @@ credit-card-fraud-detection/
 └── pyproject.toml
 ```
 
+## Author
+
+Samuel Macedo Correia
+
+- [LinkedIn](https://www.linkedin.com/in/samuelmacedoo/)
+- [GitHub](https://github.com/smacedo7)
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
